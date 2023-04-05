@@ -1,4 +1,4 @@
-** RELAÇÃO DE COMANDOS ÚTEIS **
+**RELAÇÃO DE COMANDOS ÚTEIS**
 
 * COMANDO: `sudo dnf up --ref`
 <br> O QUE FAZ: Atualiza os metadados dos repositórios de programas e mostra os que podem ser atualizados, se prosseguir com o comando (confirmando com "S") todos os pacotes que foram apresentados na saída do comando serão atualizados.
